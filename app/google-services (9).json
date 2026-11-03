@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853349073476",
+    "project_id": "yewtidin",
+    "storage_bucket": "yewtidin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853349073476:android:d31451942f2c0fb5e67211",
+        "android_client_info": {
+          "package_name": "com.tahiedit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6Ocdvx3g5auZ9J6a_mjmmvrDJLmudQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853349073476:android:83a14a72219b8f9ae67211",
+        "android_client_info": {
+          "package_name": "com.yewtu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6Ocdvx3g5auZ9J6a_mjmmvrDJLmudQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
